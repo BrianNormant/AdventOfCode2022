@@ -15,6 +15,9 @@ for i in 9..24:
 
     let dirName = "./" & name & "/";
     #copy the default .c and .nim and .bat file into the dir
-    copyFile("./default.c", dirName & "aoc.c")
-    copyFile("./default.nim", dirName & "aoc.nim")
+    #removeFile(dirName & "aoc.c")
+    #copyFile("./default.c", dirName & "aoc.c")
+    #removeFile(dirName & "aoc.nim")
+    #copyFile("./default.nim", dirName & "aoc.nim")
+    removeFile(dirName & "make.bat")
     copyFile("./make.bat", dirName & "make.bat")
