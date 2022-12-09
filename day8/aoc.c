@@ -19,13 +19,6 @@ bool all(int* seq, int len, cmp fun) {
     return true;
 }
 
-int howManyBefore(int* seq, int len, cmp fun) {
-    for (int i = 0; i < len; i++) {
-        if (fun(seq[i])) return i+1;
-    }
-    return len;
-}
-
 int countUntil(int* seq, int len, cmp fun) {
     int count = 0;
     for (int i = 0; i < len; i++) {
@@ -33,19 +26,6 @@ int countUntil(int* seq, int len, cmp fun) {
         if (fun(seq[i])) break;
     }
     return count;
-}
-
-int howMany(int* seq, int len, cmp fun) {
-    int many = 0;
-    for (int i = 0; i < len; i++)
-        if (fun(seq[i])) many++;
-    return many;
-}
-
-void show(int* seq, int len) {
-    for (int i = 0; i < len; i++) {
-        printf("%d|", seq[i]);
-    }
 }
 
 void p1(FILE* fptr) {

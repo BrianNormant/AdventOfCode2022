@@ -1,0 +1,14 @@
+@echo OFF
+ECHO IN C:
+ECHO BUILDING
+gcc aoc.c
+ECHO RUNNING
+TIMEIT a
+DEL a.exe
+
+ECHO IN NIM
+ECHO BUIDLING
+nim c -o:a.exe aoc.c
+ECHO RUNNING
+TIMEIT a
+DEL a.exe 
