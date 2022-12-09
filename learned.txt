@@ -1,0 +1,19 @@
+#   1. Use more the split function:
+# instead of doing:
+# with the input : 12-80,12-81
+# instead of this \/
+for l in line:
+            if isDigit(l):
+                str.add(l)
+            else:
+                numbers[i] = parseInt(str)
+                str = ""
+                i += 1
+        numbers[i] = parseInt(str)
+#Do this \/
+let input = """
+12-80,12-81
+""".strip().split("\n")
+
+echo input.mapIt(it.split(","))
+  .mapIt(it.mapIt(it.split("-").map(parseInt)))
