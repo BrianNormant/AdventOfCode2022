@@ -30,10 +30,13 @@ Set intersection(const Set a, const Set b) {
 
 char** getTokens(char of[], const char token[], int nbToken) {
     char** result = malloc(sizeof(char*) * nbToken);
+    //memset(result, 0, sizeof(char*) * nbToken); //It should work but not garanted by the C standard
+    for (int i = 0; i < nbToken; i++) result[i] = NULL;
 
     result[0] = strtok(of, token);
     for (int i = 1; i < nbToken; i++) {
         result[i] = strtok(NULL, token);
+        if (!result[i]) break;
     }
     return result;
 }
