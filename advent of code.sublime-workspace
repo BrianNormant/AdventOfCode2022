@@ -1,0 +1,1387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"del",
+				"delSeqOf_"
+			],
+			[
+				"newSetOf",
+				"newSetOf_int();"
+			],
+			[
+				"S",
+				"SeqOf_##T"
+			],
+			[
+				"se",
+				"seq"
+			],
+			[
+				"re",
+				"readfile"
+			],
+			[
+				"std",
+				"stdlib."
+			],
+			[
+				"in",
+				"include <"
+			],
+			[
+				"si",
+				"sizeof(T));\\"
+			],
+			[
+				"DEF",
+				"define"
+			],
+			[
+				"i",
+				"i = 0; i < len; i++"
+			],
+			[
+				"c",
+				"cycle, n);"
+			],
+			[
+				"ch",
+				"chkcycle(cycle))"
+			],
+			[
+				"str",
+				"strcmp(inst"
+			],
+			[
+				"bsy",
+				"bsyflg = 0;"
+			],
+			[
+				"for",
+				"for (int i = 0; i <"
+			],
+			[
+				"Ins",
+				"Instruction:"
+			],
+			[
+				"n",
+				"nbToken"
+			],
+			[
+				"set",
+				"setLevel(logging.DEBUG)"
+			],
+			[
+				"basi",
+				"basicConfig(level=logging.DEBUG"
+			],
+			[
+				"get",
+				"getLogger"
+			],
+			[
+				"main",
+				"ifmain"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"con",
+				"construct_bar(length)"
+			],
+			[
+				"fu",
+				"full["
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"t",
+				"time"
+			],
+			[
+				"y",
+				"yield"
+			],
+			[
+				"Spee",
+				"Speeding...\")"
+			],
+			[
+				"lo",
+				"logging"
+			],
+			[
+				"selected",
+				"selected_extent"
+			],
+			[
+				"swap_chain_im",
+				"swap_chain_images ="
+			],
+			[
+				"s",
+				"swap_chain"
+			],
+			[
+				"vkGetS",
+				"vkGetSwapchainImagesKHR("
+			],
+			[
+				"vkDestroyInstance",
+				"vkDestroyInstanceKHR(self.device, self."
+			],
+			[
+				"logg",
+				"logging.info(\""
+			],
+			[
+				"w",
+				"warning(\""
+			],
+			[
+				"e",
+				"enabled_extensions_names"
+			],
+			[
+				"de",
+				"device extensions"
+			],
+			[
+				"Ava",
+				"Available devices extensions"
+			],
+			[
+				"loggin",
+				"logging.debug(f\""
+			],
+			[
+				"da",
+				"data[\"features\"]:"
+			],
+			[
+				"phy",
+				"physical_device"
+			],
+			[
+				"p",
+				"physical_device"
+			],
+			[
+				"self",
+				"self.physical_"
+			],
+			[
+				"_de",
+				"_debug_instance"
+			],
+			[
+				"self_crea",
+				"self_create_swapchain()"
+			],
+			[
+				"l",
+				"logging.info(\"Successfully created"
+			],
+			[
+				"cre",
+				"create swapchain\")"
+			],
+			[
+				"cr",
+				"critical(\""
+			],
+			[
+				"sw",
+				"swap_chain"
+			],
+			[
+				"image_c",
+				"image_count"
+			],
+			[
+				"min",
+				"minImageCount"
+			],
+			[
+				"ima",
+				"image_count"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"a",
+				"available_mode"
+			],
+			[
+				"VK_FORMAT_B8",
+				"VK_FORMAT_B8G8R8_SRGB"
+			],
+			[
+				"f",
+				"formats"
+			],
+			[
+				"swap",
+				"swap chain requirements\")"
+			],
+			[
+				"vkGetPhysicalDeviceS",
+				"vkGetPhysicalDeviceSurfaceCapabilitiesKHR"
+			],
+			[
+				"VK_KHR_S",
+				"VK_KHR_SWAPCHAIN_EXTENSION_NAME"
+			],
+			[
+				"Succ",
+				"Successfully created logical device"
+			],
+			[
+				"vkDeviceQ",
+				"vkDeviceQueueCreate("
+			],
+			[
+				"gr",
+				"graphics"
+			],
+			[
+				"q",
+				"queue_family.queueFlags"
+			],
+			[
+				"queue_fa",
+				"queue_families"
+			],
+			[
+				"qu",
+				"queue"
+			],
+			[
+				"phys",
+				"physical_device_data"
+			],
+			[
+				"fami",
+				"families ="
+			],
+			[
+				"_select_queue_families",
+				"_select_queue_families(self"
+			],
+			[
+				"d",
+				"data[\"properties\""
+			],
+			[
+				"vkGetPhysi",
+				"vkGetPhysicalDeviceProperties"
+			],
+			[
+				"vkGetPh",
+				"vkGetPhysicalDeviceFeatures("
+			],
+			[
+				"le",
+				"len(physical_devices)"
+			],
+			[
+				"len",
+				"len(physical_devices)} physical devices"
+			],
+			[
+				"Physi",
+				"PhysicalDevice"
+			],
+			[
+				"vkE",
+				"vkEnumeratePhysicalDevices()"
+			],
+			[
+				"_select",
+				"_select_physical_device()"
+			],
+			[
+				"_select_physical_de",
+				"_select_physical_device(self):"
+			],
+			[
+				"ins",
+				"instance_create_info"
+			],
+			[
+				"_debug_instance",
+				"_debug_instance(self"
+			],
+			[
+				"Suc",
+				"Successfully created window')"
+			],
+			[
+				"instance",
+				"instance = self._create_instance()"
+			],
+			[
+				"lay",
+				"layers"
+			],
+			[
+				"ex",
+				"extensions"
+			],
+			[
+				"_create",
+				"_create_extensions(extensions)"
+			],
+			[
+				"if",
+				"if fps is not None else"
+			],
+			[
+				"W",
+				"Window"
+			],
+			[
+				"def",
+				"def __init__("
+			],
+			[
+				"r",
+				"random.randint("
+			],
+			[
+				"time",
+				"time.sleep("
+			],
+			[
+				"ali",
+				"alive_bar"
+			],
+			[
+				"alive",
+				"alive_progress"
+			],
+			[
+				"po",
+				"populate()"
+			],
+			[
+				"que",
+				"queue_family}"
+			],
+			[
+				"VW",
+				"VWrapper"
+			],
+			[
+				"swa",
+				"SwapChain"
+			],
+			[
+				"Swa",
+				"SwapChain"
+			],
+			[
+				"wid",
+				"width, height"
+			],
+			[
+				"choose",
+				"chooseSwapExtent"
+			],
+			[
+				"pre",
+				"presentModes"
+			],
+			[
+				"VK_FORMAT_B8G8",
+				"VK_FORMAT_B8G8R8_SRGB"
+			],
+			[
+				"g",
+				"graphics"
+			],
+			[
+				"Qu",
+				"Queue."
+			],
+			[
+				"u",
+				"update"
+			],
+			[
+				"L",
+				"LogicalDevice()"
+			],
+			[
+				"log",
+				"logical_device"
+			],
+			[
+				"__get",
+				"__getLayers()"
+			],
+			[
+				"device",
+				"deviceName}"
+			],
+			[
+				"vkGetPhys",
+				"vkGetPhysicalDeviceFormatsKHR("
+			],
+			[
+				"vkGetPhysicalDeviceSur",
+				"_wrap_vkGetPhysicalDeviceSurfaceCapabilitiesKHR"
+			],
+			[
+				"st",
+				"staticmethod"
+			],
+			[
+				"formats",
+				"formats = None"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"sur",
+				"surface_create_info"
+			],
+			[
+				"V",
+				"VulkanInstance"
+			],
+			[
+				"VkGetD",
+				"vkGetDeviceQueue"
+			],
+			[
+				"vkDes",
+				"vkDestroyDevice"
+			],
+			[
+				"Q",
+				"QueueFamily"
+			],
+			[
+				"VK_STRU",
+				"VK_STRUCTURE_TYPE__MAX_ENUM"
+			],
+			[
+				"deviceFeat",
+				"deviceFeatures = vkCreateLogicalDevice(self."
+			],
+			[
+				"pQ",
+				"pQueuePriorities="
+			],
+			[
+				"VkDe",
+				"VkDeviceQueueCreateInfo"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"VK_Q",
+				"VK_QUEUE_GRAPHICS_BIT"
+			],
+			[
+				"queue",
+				"queueFamilies"
+			],
+			[
+				"finQue",
+				"finQueueFamilyIndices("
+			],
+			[
+				"gpu",
+				"gpu_features"
+			],
+			[
+				"VK_PHYSICAL_DEVICE_TYPE_D",
+				"VK_PHYSICAL_DEVICE_TYPE_DISCRETE_GPU"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/brian/AppData/Local/Temp/Temp1_src.zip/src/sim/application/SIMLearning.java",
+			"settings":
+			{
+				"buffer_size": 36712,
+				"encoding": "Western (Windows 1252)",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Oculus Tray Tool/readme.txt",
+			"settings":
+			{
+				"buffer_size": 2190,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "Packages/C++/C Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Run",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/myPython.sublime-build",
+					""
+				],
+				[
+					"Packages/User/myPython.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Run",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Run",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/myPython.sublime-build",
+					""
+				],
+				[
+					"Packages/User/myPython.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Terminus Python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Terminus Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/NimLime/Support/Nim.sublime-build",
+					""
+				],
+				[
+					"Packages/NimLime/Support/Nim.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/NimLime/Support/Nim.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/myPython.sublime-build",
+					""
+				],
+				[
+					"Packages/User/myPython.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/myPython.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Build & Run"
+				]
+			],
+			[
+				"Packages/Rust/Rust.sublime-build",
+				"Build & Run"
+			]
+		],
+		[
+			[
+				[
+					"Run",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/myPython.sublime-build",
+					""
+				],
+				[
+					"Packages/User/myPython.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/myPython.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"C",
+				"Set Syntax: C"
+			],
+			[
+				"UI",
+				"UI: Select Color Scheme"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"pic",
+				"Package Control: Install Package"
+			],
+			[
+				"nim",
+				"Set Syntax: Nim"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"ari",
+				"Arithmetic"
+			],
+			[
+				"ar",
+				"Arithmetic"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"ss: pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"synta",
+				"Set Syntax: PHP"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"settin",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"pci",
+				"Package Control: Disable Package"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"NIM",
+				"Set Syntax: Nim"
+			],
+			[
+				"",
+				"Build: Cancel"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"PEP8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"emoji",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"termin",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"emo",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Anaconda: Show error list"
+			],
+			[
+				"sync",
+				"Sync Settings: Edit User Settings"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"Terminus",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"docu",
+				"Help: Documentation"
+			],
+			[
+				"Ter",
+				"Terminus: Rename Title"
+			],
+			[
+				"Termin",
+				"Terminus: Rename Title"
+			],
+			[
+				"list err",
+				"Anaconda: Show error list"
+			],
+			[
+				"A",
+				"Arithmetic"
+			],
+			[
+				"error",
+				"Anaconda: Show error list"
+			],
+			[
+				"arit",
+				"Arithmetic"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"Pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"Arit",
+				"Arithmetic"
+			],
+			[
+				"down",
+				"Sync Settings: Download"
+			],
+			[
+				"pack",
+				"View Package File"
+			],
+			[
+				"sync settings",
+				"Sync Settings: Upload"
+			],
+			[
+				"build",
+				"Build With: RunPython"
+			],
+			[
+				"package",
+				"View Package File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"pyh",
+				"Set Syntax: Python3"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"paka",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"term",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+			"x",
+			"x = 5",
+			"x",
+			"nim c test.nim",
+			"print(x)",
+			"for _ in range(5):x+=5;",
+			"for _ in range(5):",
+			"print(x)",
+			"x = 5",
+			"run",
+			"run wt",
+			"cmd",
+			"wt"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/Mon Drive/Prog/Algo/AdventOfCode",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/mylibs"
+	],
+	"file_history":
+	[
+		"/C/Users/brian/AppData/Local/Temp/Temp1_src.zip/src/sim/exception/SCoordinateOutOfBoundException.java",
+		"/C/Users/brian/AppData/Local/Temp/Temp1_src.zip/src/sim/exception/SParsingException.java",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/mylibs/mseq.c",
+		"/D/WarThunder/config.blk",
+		"/C/Users/brian/Documents/txt.txt",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day10/input.txt",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day10/aoc.c",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/tests/test.c",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day5/aoc_05.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day5/input5.txt",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/gitignore",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day9/input.txt",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day9/aoc.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day9/make.bat",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day24/make.bat",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day8/make.bat",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/make.bat",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/init.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/tests/crash.c",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day19/aoc.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day5/make.bat",
+		"/C/Users/brian/.choosenim/toolchains/nim-1.6.10/bin/timeit.bat",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/timeit.bat",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day15/aoc.c",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/tests/make.bat",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/default.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/tests/default.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/learned.txt",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day4/aoc.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day4/aoc.c",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day8/aoc.c",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day8/input.txt",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/tests/t1.c",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/test.c",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/default.c",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/mylibs/run.bat",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/mylibs/main.c",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/mylibs/mseq.h",
+		"/G/Mon Drive/Prog/Nim/GameOfLife/conwaygol.nim",
+		"/G/Mon Drive/Prog/Nim/GameOfLife/bindings.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day1/alt.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day3/aoc_03.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day3/aoc_03.c",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day2/seconddec.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/sets.h",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day4/make.bat",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day7/aoc.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/test.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day7/input.txt",
+		"/G/Mon Drive/Prog/Nim/Test/interT.nim",
+		"/G/Mon Drive/Prog/Nim/Test/itertest.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day3/input3.txt",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day3/make.bat",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day1/aoc_01.c",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day1/firstdec.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day6/aoc_06.nim",
+		"/C/Users/brian/AppData/Roaming/Sublime Text 3/Packages/NimLime/NimLime.sublime-settings",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day1/input1.txt",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day1/make.bat",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day4/aoc_04.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/day4/input4.txt",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/input6.txt",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/aoc_06.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/input5.txt",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/aoc_05.nim",
+		"/G/Mon Drive/Prog/Nim/Test/listcompr.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/aoc_04.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/input4.txt",
+		"/G/Mon Drive/Prog/Python/gravSim/spring_sim.py",
+		"/G/Mon Drive/Prog/Python/gravSim/simulation.py",
+		"/G/Mon Drive/Prog/Python/gravSim/gravity_sim.py",
+		"/G/Mon Drive/Prog/C/test.c",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/input3.txt",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/aoc_03.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/seconddec.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/input2.txt",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/test.py",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/firstdec.nim",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/input1.txt",
+		"/G/Mon Drive/Prog/Algo/AdventOfCode/1 dec.nim",
+		"/C/Users/brian/OneDrive/Bureau/Java Command Line/Main.java",
+		"/C/Users/brian/OneDrive/Bureau/Java Command Line/make.bat",
+		"/G/Mon Drive/Prog/C/GameOfLife/make.bat",
+		"/G/Mon Drive/Prog/C/GameOfLife/main.c",
+		"/G/Mon Drive/Prog/C/LoadingBars/showcase.c",
+		"/G/Mon Drive/Prog/C/LoadingBars/bars.h",
+		"/G/Mon Drive/Prog/C/LoadingBars/make.bat",
+		"/G/Mon Drive/Prog/C/build.bat",
+		"/G/Mon Drive/Prog/C/standardout.c",
+		"/G/Mon Drive/Prog/C/build.batch.bash",
+		"/G/Mon Drive/Prog/C/helloworld.c",
+		"/G/Mon Drive/Prog/C/malloc.c",
+		"/G/Mon Drive/Prog/Nim/NimbleTest/src/NimbleTest.nim",
+		"/G/Mon Drive/Prog/Nim/NimbleTest/NimbleTest.nimble",
+		"/G/Mon Drive/Prog/Nim/Test/prettycons.nim",
+		"/G/Mon Drive/Prog/Nim/Test/conwaygol.nim",
+		"/G/Mon Drive/Prog/C/myproject/main.c",
+		"/G/Mon Drive/Prog/Nim/Test/test.nim",
+		"/G/Mon Drive/Prog/Cpp/Test/primes.cpp",
+		"/G/Mon Drive/Prog/Nim/Test/primes.nim",
+		"/C/Users/brian/.nimble/pkgs/nimgl-1.3.2/nimgl/glfw.nim",
+		"/G/Mon Drive/Prog/Nim/utils.nim",
+		"/G/Mon Drive/Prog/Nim/Test/cmd",
+		"/G/Mon Drive/Prog/Nim/Test/loading.nim",
+		"/G/Mon Drive/Prog/Nim/Test/conwaygol.exe",
+		"/G/Mon Drive/Prog/Nim/Test/gameoflife.nim",
+		"/G/Mon Drive/Prog/Python/Test/loading.py",
+		"/G/Mon Drive/Prog/Nim/Game/game.nim",
+		"/G/Mon Drive/Prog/Nim/Game/ui.nim",
+		"/G/Mon Drive/Prog/Nim/Game/mylogging.nim",
+		"/G/Mon Drive/Prog/Nim/Game/example.nim",
+		"/G/Mon Drive/Prog/Nim/Test/sleep.nim",
+		"/G/Mon Drive/Prog/Nim/Test/fibonacci.nim",
+		"/G/Mon Drive/Prog/Nim/Test/plotexample.nim",
+		"/G/Mon Drive/Prog/Nim/Test/sumspeed.nim",
+		"/G/Mon Drive/Prog/Nim/helloworld.nim",
+		"/G/Mon Drive/Prog/Nim/@mhelloworld.nim.c",
+		"/G/Mon Drive/Prog/Nim/helloworld.json",
+		"/C/Nim/copying.txt",
+		"/C/Users/brian/AppData/Roaming/Sublime Text 3/Packages/NimLime/Support/Nim.sublime-build",
+		"/G/Mon Drive/Prog/Rust/Test/ArrayList.rs",
+		"/G/Mon Drive/Prog/Rust/Test/Dict.rs",
+		"/C/Users/brian/OneDrive/Documents/lien.txt",
+		"/G/Mon Drive/Prog/Python/LearningVulkan/hellotriangle2.py",
+		"/G/Mon Drive/Prog/Python/LearningVulkan/window.py",
+		"/G/Mon Drive/Prog/Python/Word/words.py",
+		"/G/Mon Drive/Prog/Python/my_logger.py",
+		"/G/Mon Drive/Prog/Python/LearningVulkan/myformat.py"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1920",
+			"resol",
+			"result",
+			"cycle == 20 ||\n                cycle == 60 ||\n                cycle == 100 ||\n                cycle == 140 ||\n                cycle == 180 ||\n                cycle == 220",
+			"clc",
+			"cycle",
+			"tail",
+			"head",
+			"tail",
+			"head",
+			"tail",
+			"5",
+			"x",
+			"howManyBefore",
+			" ",
+			"printf",
+			"||",
+			"any",
+			"continue",
+			"knt",
+			"{\n                    continue;\n                }",
+			"i",
+			"lgn",
+			"== NULL",
+			"input4",
+			"seq",
+			"addSubDir",
+			"$ cd /",
+			"input",
+			"add",
+			"b",
+			"a",
+			")\n",
+			"0"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/brian/AppData/Local/Temp/Temp1_src.zip/src/sim/application/SIMLearning.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 576.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Program Files (x86)/Oculus Tray Tool/readme.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1152.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 58.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 76.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 343.0
+	},
+	"output.exec":
+	{
+		"height": 313.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "advent of code.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sium",
+				"simulation.py"
+			],
+			[
+				"run",
+				"run.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 139.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
